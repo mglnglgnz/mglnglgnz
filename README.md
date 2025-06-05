@@ -35,7 +35,7 @@ I love code
 </p>
 
 <p align="center">
-  <img src="/home/archlinux/mglnglgnz/assets/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/mglnglgnz/mglnglgnz/blob/4b2328a27da4191db188356ac66f13632da61de9/assets/github-contribution-grid-snake.svg" />
 </p>
 
 
