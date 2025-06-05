@@ -34,4 +34,8 @@ I love code
   <img src="assets/City.gif" height="150" width="600" />
 </p>
 
+<p align="center">
+  <img src="/home/archlinux/mglnglgnz/assets/github-contribution-grid-snake.svg" />
+</p>
+
 
