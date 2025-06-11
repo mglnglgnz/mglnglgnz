@@ -1,47 +1,28 @@
-@@ -1,3 +1,26 @@
-
 <div align="center">
 
+  <img src="https://github.com/mglnglgnz/mglnglgnz/raw/main/assets/welcome.gif" alt="Welcome GIF" />
 
-	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Hello. I'm Sindre. I like code. Thanks for reading.">
+  <br><br>
 
+  **¡Hola! Soy Miguel Ángel 👋**  
+  Me encanta el código&nbsp;![](https://github.com/mglnglgnz/mglnglgnz/raw/main/assets/cat-typing.gif)&nbsp;
+  y los unicornios&nbsp;![](https://github.com/mglnglgnz/mglnglgnz/raw/main/assets/unicorn.gif)
 
-	<img src="welcome-header.gif" alt="welcome to my github profile">
+  <br><br>
 
-
-	<br>
-
-
-	<br>
+  <img src="https://github.com/mglnglgnz/mglnglgnz/raw/main/assets/furby.gif" width="60" align="right" />
 
 </div>
 
+---
 
+### 🚧 En construcción
 
+![](https://github.com/mglnglgnz/mglnglgnz/raw/main/assets/under-construction.gif)
 
+---
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+### 🔗 Enlaces
 
-
-
-
-
-<img src="party-furby.gif" align="right" width="60">
-
-
-
-
-
-<br>
-
-
-
-
-
-![](under-construction.gif)
-
-
-
-
-
-<br>
+- [Mi blog](https://tusitio.com)
+- [Proyectos](https://github.com/mglnglgnz?tab=repositories)
