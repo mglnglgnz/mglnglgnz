@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/mglnglgnz/mglnglgnz/raw/main/assets/welcome.gif" alt="Welcome GIF" />
+  <img src="https://github.com/mglnglgnz/mglnglgnz/raw/main/assets/welcome-header.gif" alt="Welcome GIF" />
 
   <br><br>
 
