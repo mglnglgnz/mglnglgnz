@@ -27,7 +27,6 @@ I love code
 
 <br><br>
 
-<!-- Badges centrados -->
 <div align="center">
   <img src="assets/internetexplorerdrehendganzneu.webp" height="40" />
   <img src="assets/badge1.gif" height="40" />
@@ -37,15 +36,12 @@ I love code
 </div>
 
 <br>
-
-<!-- City.gif centrado -->
 <div align="center">
   <img src="assets/City.gif" height="150" width="600" />
 </div>
 
 <br>
 
-<!-- Flames al final -->
 <div align="center">
   <img src="assets/flames.gif" />
 </div>
