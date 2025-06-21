@@ -7,9 +7,11 @@ I love code
 
 <br><br>
 
+
 <p align="center">
-  <img src="assets/flames.gif" />
+  <img src="assets/City.gif" height="150" width="600" />
 </p>
+
 
 <img src="https://github.com/mglnglgnz/mglnglgnz/raw/main/assets/party-furby.gif" width="60" align="right" />
 
@@ -29,10 +31,6 @@ I love code
 </p>
 
 ---
-
-<p align="center">
-  <img src="assets/City.gif" height="150" width="600" />
-</p>
 
 <p align="center">
   <img src="https://github.com/mglnglgnz/mglnglgnz/blob/4b2328a27da4191db188356ac66f13632da61de9/assets/github-contribution-grid-snake.svg" />
